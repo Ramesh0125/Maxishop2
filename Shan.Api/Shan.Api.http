@@ -1,0 +1,6 @@
+@Shan.Api_HostAddress = http://localhost:5002
+
+GET {{Shan.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
